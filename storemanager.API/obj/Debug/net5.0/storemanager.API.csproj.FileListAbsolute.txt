@@ -1,0 +1,215 @@
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/appsettings.Development.json
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/appsettings.json
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.exe
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.deps.json
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.runtimeconfig.json
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.runtimeconfig.dev.json
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/ref/storemanager.API.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.AssemblyInfoInputs.cache
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.AssemblyInfo.cs
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csproj.CoreCompileInputs.cache
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.MvcApplicationPartsAssemblyInfo.cache
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/storemanager.API.StaticWebAssets.Manifest.cache
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/storemanager.API.StaticWebAssets.xml
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/scopedcss/bundle/storemanager.API.styles.css
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.RazorTargetAssemblyInfo.cache
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csproj.CopyComplete
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.dll
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/ref/storemanager.API.dll
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.genruntimeconfig.cache
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Humanizer.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csprojAssemblyReference.cache
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Application.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Entity.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Infrastructure.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Application.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Entity.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Infrastructure.pdb
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/SourceTemp/storemanager.API/storemanager.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+D:/SourceTemp/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/appsettings.Development.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/appsettings.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.StaticWebAssets.xml
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.deps.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.runtimeconfig.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.runtimeconfig.dev.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.API.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Humanizer.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Application.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Entity.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Infrastructure.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Application.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Entity.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/bin/Debug/net5.0/storemanager.Infrastructure.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csproj.AssemblyReference.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.AssemblyInfoInputs.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.AssemblyInfo.cs
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csproj.CoreCompileInputs.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/scopedcss/bundle/storemanager.API.styles.css
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/storemanager.API.StaticWebAssets.Manifest.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/storemanager.API.StaticWebAssets.Pack.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/msbuild.storemanager.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/msbuild.build.storemanager.API.props
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.storemanager.API.props
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.storemanager.API.props
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.RazorTargetAssemblyInfo.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.csproj.CopyComplete
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/refint/storemanager.API.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/storemanager.API.genruntimeconfig.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.API/obj/Debug/net5.0/ref/storemanager.API.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\appsettings.Development.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\appsettings.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.exe
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.deps.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.runtimeconfig.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.runtimeconfig.dev.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\ref\storemanager.API.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.API.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Humanizer.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Application.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Entity.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Application.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Entity.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\bin\Debug\net5.0\storemanager.Infrastructure.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.csproj.AssemblyReference.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.AssemblyInfoInputs.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.AssemblyInfo.cs
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.csproj.CoreCompileInputs.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.MvcApplicationPartsAssemblyInfo.cs
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.MvcApplicationPartsAssemblyInfo.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\staticwebassets\storemanager.API.StaticWebAssets.Manifest.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\staticwebassets\storemanager.API.StaticWebAssets.xml
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\scopedcss\bundle\storemanager.API.styles.css
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.RazorTargetAssemblyInfo.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.csproj.CopyComplete
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\ref\storemanager.API.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.API\obj\Debug\net5.0\storemanager.API.genruntimeconfig.cache

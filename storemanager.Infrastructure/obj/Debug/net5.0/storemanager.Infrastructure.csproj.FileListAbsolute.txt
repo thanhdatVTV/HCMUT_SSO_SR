@@ -1,0 +1,45 @@
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csprojAssemblyReference.cache
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.AssemblyInfoInputs.cache
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.AssemblyInfo.cs
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csproj.CoreCompileInputs.cache
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.deps.json
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.dll
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/ref/storemanager.Infrastructure.dll
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.pdb
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Entity.dll
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Entity.pdb
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csproj.CopyComplete
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.dll
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/ref/storemanager.Infrastructure.dll
+D:/SourceTemp/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.deps.json
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Infrastructure.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Entity.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/bin/Debug/net5.0/storemanager.Entity.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csproj.AssemblyReference.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.AssemblyInfoInputs.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.AssemblyInfo.cs
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.csproj.CopyComplete
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/refint/storemanager.Infrastructure.dll
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/storemanager.Infrastructure.pdb
+/Users/tuannguyen/Desktop/SOURCE API/NguyenTrongDuy/storemanager.API/storemanager.Infrastructure/obj/Debug/net5.0/ref/storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\storemanager.Infrastructure.deps.json
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\ref\storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\storemanager.Infrastructure.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\storemanager.Entity.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\bin\Debug\net5.0\storemanager.Entity.pdb
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.csproj.AssemblyReference.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.AssemblyInfoInputs.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.AssemblyInfo.cs
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.csproj.CoreCompileInputs.cache
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.csproj.CopyComplete
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\ref\storemanager.Infrastructure.dll
+E:\mybk\Cong nghe phan men\API\SOURCE API\NguyenTrongDuy\storemanager.API\storemanager.Infrastructure\obj\Debug\net5.0\storemanager.Infrastructure.pdb

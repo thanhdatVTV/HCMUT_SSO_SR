@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{43D9B010-FE01-4B6B-B899-59D634E15FD8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.storemanager.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="storemanager.Application/ViewModels/ResultView/ResultViewModel.cs">
+    <Files>
+      <File FileName="storemanager.API/Controllers/customersController.cs" Line="39" Column="21" />
+      <File FileName="storemanager.Application/Services/customersService.cs" Line="64" Column="51" />
+      <File FileName="storemanager.Infrastructure/Repository.cs" Line="49" Column="31" />
+      <File FileName="storemanager.Application/ViewModels/ResultView/ResultViewModel.cs" Line="18" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="storemanager.API" expanded="True">
+            <Node name="storemanager.API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="storemanager.Application" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
