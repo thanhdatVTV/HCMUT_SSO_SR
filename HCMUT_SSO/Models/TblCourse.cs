@@ -5,7 +5,9 @@ namespace HCMUT_SSO.Models;
 
 public partial class TblCourse
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
     public string CourseName { get; set; } = null!;
+
+    public virtual ICollection<TblFaculty> TblFaculties { get; set; } = new List<TblFaculty>();
 }

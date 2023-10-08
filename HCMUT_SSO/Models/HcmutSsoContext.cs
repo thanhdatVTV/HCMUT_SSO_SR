@@ -21,7 +21,7 @@ public partial class HcmutSsoContext : DbContext
 
     public virtual DbSet<TblFaculty> TblFaculties { get; set; }
 
-    public virtual DbSet<TblIndustry> TblIndustries { get; set; }
+    public virtual DbSet<TblMajor> TblMajors { get; set; }
 
     public virtual DbSet<TblStudent> TblStudents { get; set; }
 
@@ -45,7 +45,6 @@ public partial class HcmutSsoContext : DbContext
         {
             entity.ToTable("tbl_Course");
 
-            entity.Property(e => e.Id).ValueGeneratedNever();
             entity.Property(e => e.CourseName).HasMaxLength(250);
         });
 
@@ -54,13 +53,23 @@ public partial class HcmutSsoContext : DbContext
             entity.ToTable("tbl_Faculty");
 
             entity.Property(e => e.FacultyName).HasMaxLength(250);
+
+            entity.HasOne(d => d.Course).WithMany(p => p.TblFaculties)
+                .HasForeignKey(d => d.CourseId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_tbl_Faculty_tbl_Course");
         });
 
-        modelBuilder.Entity<TblIndustry>(entity =>
+        modelBuilder.Entity<TblMajor>(entity =>
         {
-            entity.ToTable("tbl_Industry");
+            entity.ToTable("tbl_Major");
 
-            entity.Property(e => e.IndustryName).HasMaxLength(250);
+            entity.Property(e => e.MajorName).HasMaxLength(500);
+
+            entity.HasOne(d => d.Faculty).WithMany(p => p.TblMajors)
+                .HasForeignKey(d => d.FacultyId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_tbl_Major_tbl_Faculty");
         });
 
         modelBuilder.Entity<TblStudent>(entity =>
@@ -72,6 +81,20 @@ public partial class HcmutSsoContext : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(250);
             entity.Property(e => e.FullName).HasMaxLength(500);
             entity.Property(e => e.LastName).HasMaxLength(250);
+            entity.Property(e => e.Type).HasComment("0: Sinh vien; 1 Giao vien");
+
+            entity.HasOne(d => d.ClassGroup).WithMany(p => p.TblStudents)
+                .HasForeignKey(d => d.ClassGroupId)
+                .HasConstraintName("FK_tbl_Student_tbl_ClassGroup");
+
+            entity.HasOne(d => d.Major).WithMany(p => p.TblStudents)
+                .HasForeignKey(d => d.MajorId)
+                .HasConstraintName("FK_tbl_Student_tbl_Major");
+
+            entity.HasOne(d => d.User).WithMany(p => p.TblStudents)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_tbl_Student_tbl_User");
         });
 
         modelBuilder.Entity<TblUser>(entity =>

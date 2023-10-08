@@ -10,4 +10,6 @@ public partial class TblUser
     public string UserName { get; set; } = null!;
 
     public string Password { get; set; } = null!;
+
+    public virtual ICollection<TblStudent> TblStudents { get; set; } = new List<TblStudent>();
 }
