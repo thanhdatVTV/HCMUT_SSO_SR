@@ -25,6 +25,8 @@ public partial class HcmutSsoContext : DbContext
 
     public virtual DbSet<TblStudent> TblStudents { get; set; }
 
+    public virtual DbSet<TblTeacher> TblTeachers { get; set; }
+
     public virtual DbSet<TblUser> TblUsers { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -81,20 +83,44 @@ public partial class HcmutSsoContext : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(250);
             entity.Property(e => e.FullName).HasMaxLength(500);
             entity.Property(e => e.LastName).HasMaxLength(250);
-            entity.Property(e => e.Type).HasComment("0: Sinh vien; 1 Giao vien");
+            entity.Property(e => e.StudentId).HasMaxLength(50);
 
             entity.HasOne(d => d.ClassGroup).WithMany(p => p.TblStudents)
                 .HasForeignKey(d => d.ClassGroupId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_tbl_Student_tbl_ClassGroup");
 
             entity.HasOne(d => d.Major).WithMany(p => p.TblStudents)
                 .HasForeignKey(d => d.MajorId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_tbl_Student_tbl_Major");
 
             entity.HasOne(d => d.User).WithMany(p => p.TblStudents)
                 .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_tbl_Student_tbl_User");
+        });
+
+        modelBuilder.Entity<TblTeacher>(entity =>
+        {
+            entity.ToTable("tbl_Teacher");
+
+            entity.Property(e => e.Id).ValueGeneratedNever();
+            entity.Property(e => e.DateOfBirth).HasColumnType("datetime");
+            entity.Property(e => e.FirstName).HasMaxLength(250);
+            entity.Property(e => e.FullName).HasMaxLength(500);
+            entity.Property(e => e.LastName).HasMaxLength(250);
+            entity.Property(e => e.TeacherId).HasMaxLength(50);
+
+            entity.HasOne(d => d.Course).WithMany(p => p.TblTeachers)
+                .HasForeignKey(d => d.CourseId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_tbl_Teacher_tbl_Course");
+
+            entity.HasOne(d => d.User).WithMany(p => p.TblTeachers)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_tbl_Teacher_tbl_User");
         });
 
         modelBuilder.Entity<TblUser>(entity =>

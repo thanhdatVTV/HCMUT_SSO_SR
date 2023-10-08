@@ -25,7 +25,18 @@ namespace HCMUT_SSO.Controllers
         public async Task<IActionResult> CheckAuthenticationLogin(string userName, string passWord)
         {
             ResultViewModel Result = new ResultViewModel();
+            //Result = await _userRepository.CheckUser(userName, password);
 
+            //if (Result == null)
+            //{
+            //    Result.status = 0;
+            //    Result.message = "Tài khoản không tồn tại trong hệ thống!";
+            //}
+            //else
+            //{
+            //    Result.status = 1;
+            //    Result.message = "Tài khoản chính xác!";
+            //}
             var user = await _context.TblUsers.Where(d => d.UserName == userName && d.Password == passWord).FirstOrDefaultAsync();
             if (user == null)
             {

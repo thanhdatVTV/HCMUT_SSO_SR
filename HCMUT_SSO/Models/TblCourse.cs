@@ -10,4 +10,6 @@ public partial class TblCourse
     public string CourseName { get; set; } = null!;
 
     public virtual ICollection<TblFaculty> TblFaculties { get; set; } = new List<TblFaculty>();
+
+    public virtual ICollection<TblTeacher> TblTeachers { get; set; } = new List<TblTeacher>();
 }

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 
 namespace HCMUT_SSO.Models;
 
-public partial class TblStudent
+public partial class TblTeacher
 {
     public Guid Id { get; set; }
 
     public Guid UserId { get; set; }
 
-    public string StudentId { get; set; } = null!;
+    public string TeacherId { get; set; } = null!;
 
     public string LastName { get; set; } = null!;
 
@@ -19,13 +19,9 @@ public partial class TblStudent
 
     public DateTime? DateOfBirth { get; set; }
 
-    public int MajorId { get; set; }
+    public int CourseId { get; set; }
 
-    public Guid ClassGroupId { get; set; }
-
-    public virtual TblClassGroup ClassGroup { get; set; } = null!;
-
-    public virtual TblMajor Major { get; set; } = null!;
+    public virtual TblCourse Course { get; set; } = null!;
 
     public virtual TblUser User { get; set; } = null!;
 }
