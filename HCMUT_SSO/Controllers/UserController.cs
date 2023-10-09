@@ -1,4 +1,5 @@
-﻿using HCMUT_SSO.Models;
+﻿using HCMUT_SSO.Interfaces;
+using HCMUT_SSO.Models;
 using HCMUT_SSO.ViewModels.ResultView;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,8 +12,11 @@ namespace HCMUT_SSO.Controllers
     public class UserController : ControllerBase
     {
         private readonly HcmutSsoContext _context;
-        public UserController(HcmutSsoContext context) { 
+        private readonly IUserRepository _userRepository;
+
+        public UserController(HcmutSsoContext context, IUserRepository userRepository) { 
             _context = context;
+            _userRepository = userRepository;   
         }
 
         [HttpGet]
@@ -25,28 +29,10 @@ namespace HCMUT_SSO.Controllers
         public async Task<IActionResult> CheckAuthenticationLogin(string userName, string passWord)
         {
             ResultViewModel Result = new ResultViewModel();
-            //Result = await _userRepository.CheckUser(userName, password);
-
-            //if (Result == null)
-            //{
-            //    Result.status = 0;
-            //    Result.message = "Tài khoản không tồn tại trong hệ thống!";
-            //}
-            //else
-            //{
-            //    Result.status = 1;
-            //    Result.message = "Tài khoản chính xác!";
-            //}
-            var user = await _context.TblUsers.Where(d => d.UserName == userName && d.Password == passWord).FirstOrDefaultAsync();
-            if (user == null)
+            Result = await _userRepository.CheckUser(userName, passWord);
+            if(!ModelState.IsValid)
             {
-                Result.status = 0;
-                Result.message = "Tài khoản không tồn tại trong hệ thống!";
-            }
-            else
-            {
-                Result.status = 1;
-                Result.message = "Tài khoản chính xác!";
+                return BadRequest(ModelState);
             }
             return Ok(Result);
         }
