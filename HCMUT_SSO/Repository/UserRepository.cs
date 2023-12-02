@@ -37,6 +37,7 @@ namespace HCMUT_SSO.Repository
                                             Fullname = st.FullName,
                                             DateOfBirth = st.DateOfBirth,
                                             StudentId = st.StudentId,
+                                            FacultyId = fa.Id,
                                             FacultyName = fa.FacultyName
                                         }).FirstOrDefaultAsync();
 
@@ -46,6 +47,7 @@ namespace HCMUT_SSO.Repository
                             userInfoViewModel.FirstName = student.FirstName;
                             userInfoViewModel.Fullname = student.Fullname;
                             userInfoViewModel.StudentId = student.StudentId;
+                            userInfoViewModel.FacultyId = student.FacultyId;
                             userInfoViewModel.FacultyName = student.FacultyName;
                             userInfoViewModel.Type = 0;
                         }
@@ -61,6 +63,7 @@ namespace HCMUT_SSO.Repository
                                                  Fullname = te.FullName,
                                                  DateOfBirth = te.DateOfBirth,
                                                  TeacherId = te.TeacherId,
+                                                 CourseId = co.Id,
                                                  CourseName = co.CourseName
                                              }).FirstOrDefaultAsync();
                         if (teacher != null)
@@ -69,6 +72,7 @@ namespace HCMUT_SSO.Repository
                             userInfoViewModel.FirstName = teacher.FirstName;
                             userInfoViewModel.Fullname = teacher.Fullname;
                             userInfoViewModel.TeacherId = teacher.TeacherId;
+                            userInfoViewModel.CourseId = teacher.CourseId;
                             userInfoViewModel.CourseName = teacher.CourseName;
                             userInfoViewModel.Type = 1;
                         }
